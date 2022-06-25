@@ -129,5 +129,6 @@ dmypy.json
 
 airflow
 logs/
-dags/
 scheduler/
+/scripts/scratch.txt
+/dags/__pycache__
